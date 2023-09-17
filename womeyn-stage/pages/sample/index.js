@@ -2,7 +2,7 @@ import React from 'react'
 
 function index() {
   return (
-    <div>sample</div>
+    <div>sample page check</div>
   )
 }
 
